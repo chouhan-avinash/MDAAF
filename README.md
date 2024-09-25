@@ -9,4 +9,4 @@ Trained models will be shared here
 - V2P_RGB
 - R2U
 
-# Credit
+# Credits
