@@ -14,7 +14,7 @@ model = dict(
         in_channels=64),
     backbone_s=dict(
         type='MixVisionTransformer',
-        init_cfg=dict(type='Pretrained', checkpoint='/workspace/gpu8/my/work/ST-DASegNet//pretrained/mit_b5.pth'),
+        init_cfg=dict(type='Pretrained', checkpoint='/pretrained/mit_b5.pth'),
         in_channels=3,
         embed_dims=64,
         num_stages=4,
