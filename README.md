@@ -1,6 +1,6 @@
 # MDAAF
 
-# Implementation codes are available at [link](https://github.com/chouhan-avinash/MDAAF/tree/master)
+# Implementation details are available at [link](https://github.com/chouhan-avinash/MDAAF/tree/master)
 
 Trained models will be shared here 
 
