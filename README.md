@@ -6,6 +6,7 @@
 
 ## Task-wise model run command example
 -P2V
+
 /tools/dist_train.sh ./experiments/segformerb5/config/bmddjcf_Potsdam2Vaihingen_211_r_4_gan_fd2_ds_nmk_nw2.py 2
 
 
