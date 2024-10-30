@@ -13,7 +13,7 @@
 
 
 
-# Task-wise trained models (will be available on this [link](https://drive.google.com/drive/folders/17tOm5PqvEiKZGz-YzF8vHXyEwhGpnTuA))
+# Task-wise trained models ( [link](https://drive.google.com/drive/folders/17tOm5PqvEiKZGz-YzF8vHXyEwhGpnTuA))
 - P2V
 - V2P
 - P2V_RGB
