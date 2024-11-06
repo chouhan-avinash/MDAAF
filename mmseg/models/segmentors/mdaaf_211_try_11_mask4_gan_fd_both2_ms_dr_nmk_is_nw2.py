@@ -272,7 +272,7 @@ class CosineSimilarityLoss(nn.Module):
 
 @SEGMENTORS.register_module()
 class EncoderDecoder_forMDAAF_211_try_11_mask4_gan_fd_both2_ms_dr_nmk_is_nw2(BaseSegmentor):
-    """Encoder Decoder segmentors for ST-DASegNet.
+    """Encoder Decoder segmentors for ST-DASegNet based MDAAF.
 
     EncoderDecoder_forDSFN typically consists of two backbone, two decode_head. Here, we do not
     apply auxiliary_head, neck to simplify the implementation.
