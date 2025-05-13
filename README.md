@@ -1,4 +1,4 @@
-# [MDAAF](https://link.springer.com/article/10.1007/s10044-025-01473-2)
+# [MDAAF: masked domain adversarial adaptation framework for unsupervised domain adaptive semantic segmentation](https://link.springer.com/article/10.1007/s10044-025-01473-2)
 
 # Run
 
