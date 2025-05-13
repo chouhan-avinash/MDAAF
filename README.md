@@ -1,4 +1,4 @@
-# MDAAF
+# [MDAAF](https://link.springer.com/article/10.1007/s10044-025-01473-2)
 
 # Implementation details are available at [link](https://github.com/chouhan-avinash/MDAAF/tree/master)
 
